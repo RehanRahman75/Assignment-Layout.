@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+}
+header{
+    box-shadow: 0px 20px 11px #d2d1d147;
+    padding: 15px 0px;
+}
+.wraper{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 80%;
+    display: inline-block;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    font-size: 25px;
+    color: #3b506c;
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+}
+nav ul li a:hover{
+	color: #3b66fe;
+}
+section{
+    padding: 30px 0;
+}
+.about-section{
+    text-align: center;
+    padding: 30px 0;
+}
+.about-section h1{
+    font-size: 62px;
+    color: #3b506c;
+    margin: 0 auto;
+    max-width: 700px;
+}
+.about-section h1 span{
+    color: #3b66fe;
+    text-transform: capitalize;
+}
+.about-section p{
+    font-size: 20px;
+    color: #3b506c;
+}
+section img{
+	display: block;
+    margin: auto;
+    max-width: 600px;
+
+}
+
+
+.fetaure-section{}
+.colum{
+    width: 50%;
+    float: left;
+}
+.feature{
+    padding: 20px;
+}
+.feature h2{font-size: 50px;margin: 0;color: #6b516c;}
+.feature h2 span{
+	color: red;
+}
+.feature p{
+    font-size: 25px;
+    color: #3b506c;
+    margin: 0;
+}
+.alain-right{
+
+text-align: right;
+}
+
+
+
+.blog-section{
+    padding: 100px 0;
+}
+.col{
+    width: 33.33%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.blog{
+    background: #FFB4C1;
+    padding: 20px;
+    box-shadow: 0px 15px 11px #d2d1d147;
+    border-radius: 20px;
+}
+.blog img{
+    width: 100%;
+    height: 200px;
+}
+.blog h3{font-size: 25px;color: #3b506c;margin: 0;margin-bottom: 6px;}
+.blog p{
+    font-size: 20px;
+    margin: 0;
+    color: #3b506c;
+}
+
+.red{
+	background: #FFB4C1;
+}
+.green{
+	background-color: #B6C0C1
+}
+.orng{
+	background-color: #FCF0E7
+}
+
+
+
+
